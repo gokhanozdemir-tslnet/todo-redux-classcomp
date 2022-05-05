@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  background: linear-gradient(to left, #00ff73d0 0%, #0f145f 100%);
+  text-align: center;
+  /* 1st property: from where the 100% starts */
+  /* 2nd property: the first color */
+  /* 3rd property: the second color */
+  /* to add some colors to the gradient, do the same thing of 2nd and 3rd properties, edit the color and the color-stop */
+}
+
+* {
+  font-family: "Times New Roman", Times, serif;
+}

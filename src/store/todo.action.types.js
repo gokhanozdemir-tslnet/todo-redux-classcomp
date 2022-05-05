@@ -1,0 +1,3 @@
+export const TODO_LIST_ACTION_TYPES = {
+  SET_TODO_LIST: "SET_TODO",
+};

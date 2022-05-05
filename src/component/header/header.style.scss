@@ -1,0 +1,11 @@
+.App {
+  .header {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    color: #fff;
+    margin-top: 200px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 24px;
+  }
+}

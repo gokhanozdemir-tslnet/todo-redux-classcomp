@@ -1,0 +1,17 @@
+.App {
+  .container {
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+    margin-left: 40%;
+    margin-right: 40%;
+
+    .container-item {
+      margin: 5px;
+      padding: 5px;
+      background-color: white;
+      border-radius: 3px;
+      text-align: left;
+    }
+  }
+}
